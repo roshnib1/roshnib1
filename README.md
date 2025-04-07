@@ -9,12 +9,11 @@ I am a passionate **Data Enthusiast** eager to explore insights from data and le
 ## 🛠️ **Tech Skills**  
 🔹 Python | SQL | Excel | Power BI  
 🔹 HTML | CSS | JavaScript  
-🔹 Machine Learning (beginner)   
+🔹 Machine Learning    
 
 ---
 ## 🌱 I’m currently learning...  
-- Advanced SQL for Data Analysis  
-- Machine Learning techniques (Scikit-learn, Pandas, NumPy)  
+- Advanced SQL for Data Analysis    
 ---
 ## 🎯 **Career Goals**  
 - Land a **Data Analyst** role 🚀  
