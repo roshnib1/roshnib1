@@ -1,37 +1,48 @@
-# 👋 Hi, I'm Roshni Behera!  
+# 👋 Hi, I'm Roshni Behera!
 
-🎯 **Aspiring Data Analyst | Python | SQL | Power BI | Web Development**  
+🎯 **Data Analyst | Python | SQL | Power BI | Machine Learning | Computer Vision | Web Development**
 
-I am a passionate **Data Enthusiast** eager to explore insights from data and leverage analytical skills to solve real-world problems. With a background in **Python programming, SQL, Excel, Power BI, and Web Development**, I am continuously working on projects that enhance my problem-solving abilities and analytical thinking.  
+I'm a passionate **Data Enthusiast** who enjoys transforming data into meaningful insights and building impactful, real-world solutions. With skills in **Python, SQL, Excel, Power BI**, I work on diverse projects that enhance analytical thinking and problem-solving abilities. I'm also exploring the exciting world of **Computer Vision** and **Deep Learning** using **OpenCV** and **TensorFlow**.
 
 ---
 
-## 🛠️ **Tech Skills**  
+## 🛠️ Tech Skills  
 🔹 Python | SQL | Excel | Power BI  
 🔹 HTML | CSS | JavaScript  
-🔹 Machine Learning    
+🔹 Machine Learning | Scikit-learn | TensorFlow | Pandas | NumPy  
+🔹 Computer Vision | OpenCV | Roboflow  
+🔹 Git | Jupyter Notebook | VS Code  
 
 ---
-## 🌱 I’m currently learning...  
-- Advanced SQL for Data Analysis    
----
-## 🎯 **Career Goals**  
-- Land a **Data Analyst** role 🚀  
-- Gain hands-on experience through **internships**  
-- Master **Data Visualization** & **Predictive Analytics**  
----
-## 📫 How to reach me...  
-- **LinkedIn:** [Roshni Behera](https://www.linkedin.com/in/roshni-behera-778232308) 
-- **Email:** [roshnibehera.b@gmail.com](mailto:roshnibehera.b@gmail.com)
 
-## 😄 Pronouns:  
+## 🌱 Currently Learning  
+- Advanced SQL for Analytics  
+- Deep Learning with TensorFlow  
+- Real-time image detection using OpenCV  
+- Dashboard storytelling with Power BI  
+
+---
+
+## 🎯 Career Goals  
+- Contribute to real-world data projects that drive decisions  
+- Land a full-time role as a **Data Analyst** or in **AI/ML**  
+- Master **Data Visualization**, **Predictive Analytics**, and **Computer Vision**  
+
+---
+
+## 📫 How to Reach Me  
+- **LinkedIn**: [Roshni Behera](https://www.linkedin.com/in/roshnibehera)  
+- **Email**: [roshnibehera.b@gmail.com](mailto:roshnibehera.b@gmail.com)  
+
+---
+
+## 😄 Pronouns  
 She/Her  
 
-## ⚡ Fun fact:  
-I love **solving data puzzles** and discovering insights that can **drive better decisions**! 🚀  
+---
+
+## ⚡ Fun Fact  
+I love solving data puzzles and uncovering insights that help teams make smarter decisions! 🚀
 
 ---
-<!---
-roshnib1/roshnib1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
