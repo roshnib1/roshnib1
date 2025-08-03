@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Roshni Behera!
 
-🎯 **Data Analyst | Python | SQL | Power BI | Machine Learning | Computer Vision | Web Development**
+🎯 **Data Scientist | Python | SQL | Power BI | Machine Learning | Computer Vision | Web Development**
 
 I'm a passionate **Data Enthusiast** who enjoys transforming data into meaningful insights and building impactful, real-world solutions. With skills in **Python, SQL, Excel, Power BI**, I work on diverse projects that enhance analytical thinking and problem-solving abilities. I'm also exploring the exciting world of **Computer Vision** and **Deep Learning** using **OpenCV** and **TensorFlow**.
 
